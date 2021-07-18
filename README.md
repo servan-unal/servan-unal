@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Şervan
-- 👀 I’m interested in Mssql,DonNet technologies 
+- 👀 I’m interested in Mssql,DotNet technologies 
 - 🌱 I’m currently learning Frontend Development Langueges
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my E-mail adress is servanonal870@gmail.com
